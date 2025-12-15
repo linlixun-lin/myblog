@@ -1,4 +1,45 @@
-baseURL = 'https://myblog-virid-chi.vercel.app/'
-languageCode = 'en-us'
-title = 'Autumn`s Blog'
+baseURL = "https://myblog-virid-chi.vercel.app/"  # 刚才改过的，别动
+languageCode = "zh-cn" # 语言改成中文
+title = "林理洵的blog"   # 浏览器标签页显示的标题
 theme = "PaperMod"
+
+[params]
+    # 1. 网站描述
+    description = "这是我记录生活和技术的地方"
+    
+    # 2. 启用“个人主页模式”（首页显示大头像和介绍）
+    [params.profileMode]
+        enabled = true
+        title = "你好，我是林理洵" # 首页中间的大标题
+        subtitle = "梦里不觉秋已深，余情岂是为他人"
+        imageUrl = "1691750620739.png" # 这里的名字要和 static 文件夹里的图片名字一样！
+        imageTitle = "头像描述"
+        imageWidth = 120
+        imageHeight = 120
+
+    # 3. 社交链接（首页的图标）
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/linlixun-lin"
+    [[params.socialIcons]]
+        name = "bilibili"
+        url = "https://space.bilibili.com/471403876?spm_id_from=333.1007.0.0"
+    # 4. 网站图标 (浏览器标签页上的小图标)
+    [params.assets]
+        favicon = "favicon.ico"
+        [menu]
+    [[menu.main]]
+        identifier = "archives"
+        name = "归档"
+        url = "/archives/"
+        weight = 10
+    [[menu.main]]
+        identifier = "search"
+        name = "搜索"
+        url = "/search/"
+        weight = 20
+    [[menu.main]]
+        identifier = "about"
+        name = "关于"
+        url = "/about/" # 需要你自己建一个 about.md
+        weight = 30
