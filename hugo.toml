@@ -31,6 +31,10 @@ theme = "PaperMod"
     # --- 网站图标 ---
     [params.assets]
         favicon = "favicon.ico"
+        ShowReadingTime = true    # 显示阅读时长
+        ShowWordCount = true      # 显示字数
+        ShowBreadCrumbs = true    # 显示面包屑导航
+        ShowPostNavLinks = true   # 显示“上一篇/下一篇”按钮
 
 # --- 菜单栏 (注意：这部分要放在最外层，不要缩进到 params 里) ---
 [menu]
@@ -49,3 +53,7 @@ theme = "PaperMod"
         name = "关于"
         url = "/about/"
         weight = 30
+[params.comments]
+    enabled = true
+ [outputs]
+    home = ["HTML", "RSS", "JSON"]
