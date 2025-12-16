@@ -53,6 +53,11 @@ theme = "PaperMod"
         name = "关于"
         url = "/about/"
         weight = 30
+     [[menu.main]]
+        identifier = "links"
+        name = "友链"
+        url = "/links/"
+        weight = 40  # 数字越大，排得越靠后
 [params.comments]
     enabled = true
  [outputs]

@@ -6,8 +6,20 @@
     <description>Recent content on 林理洵的blog</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Dec 2024 19:01:07 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 22:03:29 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大学的点点滴滴</title>
+      <link>http://localhost:1313/posts/blog_1/</link>
+      <pubDate>Mon, 15 Dec 2025 22:03:29 +0800</pubDate>
+      <guid>http://localhost:1313/posts/blog_1/</guid>
+      <description>&lt;h2 id=&#34;一名swjtu的大学生的生活记录&#34;&gt;一名SWJTU的大学生的生活记录&lt;/h2&gt;
+&lt;p&gt;本人是一名就读于SWJTU的
+&lt;del&gt;建筑学学生&lt;/del&gt; 地信学生，至于为什么要划掉建筑学后问会有解答的。对大学生活充满无奈。&lt;/p&gt;
+&lt;p&gt;只好随手记录一下。开这个记录的时候是2025/12/15，已经大二了，所以大一的内容只能凭借我的记忆回忆在学校的&lt;del&gt;美好时光&lt;/del&gt;。也不知道会不会写到毕业，我尽力吧。&lt;/p&gt;
+&lt;h3 id=&#34;大一&#34;&gt;大一&lt;/h3&gt;
+&lt;p&gt;大一的我怀揣着梦想和理想进入SWJTU的建筑学院，现在回想起来着实有点可笑&lt;/p&gt;</description>
+    </item>
     <item>
       <title>这是一条测试</title>
       <link>http://localhost:1313/posts/test/</link>
@@ -27,6 +39,35 @@
 &lt;li&gt;睡觉&lt;/li&gt;
 &lt;li&gt;吃饭&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>我的朋友们</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;p&gt;这里是林理洵的朋友圈。欢迎互换友链！&lt;/p&gt;
+&lt;h2 id=&#34;-大佬们的博客&#34;&gt;🔗 大佬们的博客&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;博客名称&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;简介&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;传送门&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;林理洵的blog&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;没错，这就是我自己&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://myblog-virid-chi.vercel.app/&#34;&gt;点击访问&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Oops的blog&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;一个高手&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://blog.rikka.top/&#34;&gt;点击访问&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

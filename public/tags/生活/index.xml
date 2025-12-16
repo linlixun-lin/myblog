@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 林理洵的blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on 林理洵的blog</description>
+    <title>生活 on 林理洵的blog</title>
+    <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on 林理洵的blog</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 15 Dec 2025 22:03:29 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大学的点点滴滴</title>
       <link>http://localhost:1313/posts/blog_1/</link>
@@ -19,13 +19,6 @@
 &lt;p&gt;只好随手记录一下。开这个记录的时候是2025/12/15，已经大二了，所以大一的内容只能凭借我的记忆回忆在学校的&lt;del&gt;美好时光&lt;/del&gt;。也不知道会不会写到毕业，我尽力吧。&lt;/p&gt;
 &lt;h3 id=&#34;大一&#34;&gt;大一&lt;/h3&gt;
 &lt;p&gt;大一的我怀揣着梦想和理想进入SWJTU的建筑学院，现在回想起来着实有点可笑&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>这是一条测试</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Sun, 15 Dec 2024 19:01:07 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;h2 id=&#34;这是一条测试&#34;&gt;这是一条测试&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
